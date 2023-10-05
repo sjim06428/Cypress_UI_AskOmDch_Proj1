@@ -44,6 +44,10 @@ class Home {
     get ArticleOneImage() {
         return cy.xpath("(//div[@class='wp-block-cover has-background-dim-40 has-background-dim'])[1]//img")
     }
+
+    get ArticleOneImageHeader() {
+        return cy.contains('h3', '20% Off on Tank Tops')
+    }
 }
 
 const home = new Home()
