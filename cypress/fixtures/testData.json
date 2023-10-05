@@ -1,0 +1,24 @@
+{
+    "home" : {
+        "title": "AskOmDch – Become a Selenium automation expert!",
+        "logoText": "\nAskOmDch\n",
+        "navElements": "Home\nStore\nMen\nWomen\nAccessories\nAccount\nAbout\nContact Us\n",
+        "pageHeader": "Raining Offers for Hot Summer!",
+        "shopNow": "Shop Now",
+        "shopNowHref": "/store",
+        "findMoreLinkText": "Find More",
+        "findMoreHref": "/contact-us",
+        "pageSubHeading": "25% OFF On all products",
+        "emptyCartText": "\n\t\t\t\t\t\t\t\t\t0\t\t\t\t\t\t\t\t",
+        "pageHeaderFontWeight": "700",
+        "articleOneImageHref": "https://askomdch.com/wp-content/uploads/2021/06/launchpad9.jpg"
+    },
+
+    "store" : {
+        "pageHeader": "Store"
+    },
+
+    "contactus" : {
+        "pageHeader": "Contact Us"
+    }
+}
